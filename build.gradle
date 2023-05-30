@@ -1,0 +1,45 @@
+
+//apply from: "config.gradle"
+
+buildscript {
+    ext.kotlin_version = '1.4.10'
+    repositories {
+        // maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/'}
+        google()
+        //jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.2'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+
+        // tinkersupport插件, 其中lastest.release指拉取最新版本，也可以指定明确版本号，例如1.0.4
+      //  classpath "com.tencent.bugly:tinker-support:1.2.0"
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven { url 'https://maven.google.com' }
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+//
+//plugins {
+//    id 'com.android.application' version '3.5.2' apply false
+//    id 'com.android.library' version '3.5.2' apply false
+//    id 'org.jetbrains.kotlin.android' version '1.7.21' apply false
+//}
+
+
