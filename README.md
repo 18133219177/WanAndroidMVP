@@ -1,6 +1,5 @@
 # Kotlin+MVP 版 WanAndroid 客户端
 
-
 ## 前言
 使用kotlin语言编写的玩Android项目的客户端。
 项目使用了MVP+RxJava+Retrofit+EventBus等作为设计。
