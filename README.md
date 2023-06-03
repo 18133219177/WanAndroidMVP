@@ -1,48 +1,5 @@
-# Kotlin 版 WanAndroid 客户端
+# Kotlin+MVP 版 WanAndroid 客户端
 
-[//]: # ([![Platform][1]][2]  [![Build Status][3]][4]  [![Release][5]][6]  [![Release][7]][8]  [![GitHub license][9]][10]  [![][11]][12] )
-
-[//]: # ()
-[//]: # ([1]:https://img.shields.io/badge/platform-Android-blue.svg  )
-
-[//]: # ([2]:https://github.com/iceCola7/WanAndroid)
-
-[//]: # ()
-[//]: # ([3]:https://travis-ci.com/iceCola7/WanAndroid.svg?branch=master)
-
-[//]: # ([4]:https://travis-ci.com/iceCola7/WanAndroid)
-
-[//]: # ()
-[//]: # ([5]:https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)
-
-[//]: # ([6]:https://android-arsenal.com/api?level=16)
-
-[//]: # ()
-[//]: # ([7]:https://img.shields.io/github/release/iceCola7/WanAndroid.svg)
-
-[//]: # ([8]:https://github.com/iceCola7/WanAndroid/releases/latest)
-
-[//]: # ()
-[//]: # ([9]:https://img.shields.io/badge/license-Apache%202-blue.svg)
-
-[//]: # ([10]:https://github.com/iceCola7/WanAndroid/blob/master/LICENSE)
-
-[//]: # ()
-[//]: # ([11]:https://img.shields.io/badge/QQ-563859095-orange.svg)
-
-[//]: # ([12]:http://wpa.qq.com/msgrd?v=3&uin=563859095&site=qq&menu=yes)
-
-[//]: # ()
-[//]: # (- **Flutter 版 WANAndroid 客户端：[https://github.com/iceCola7/flutter_wanandroid]&#40;https://github.com/iceCola7/flutter_wanandroid&#41;**)
-
-[//]: # (- **Kotlin 版 MVP 基础框架：[https://github.com/iceCola7/KotlinMVPSamples]&#40;https://github.com/iceCola7/KotlinMVPSamples&#41;**)
-
-[//]: # (- **Java 版 MVP 基础框架：[https://github.com/iceCola7/MVPSamples]&#40;https://github.com/iceCola7/MVPSamples&#41;**)
-
-[//]: # (- **Github 项目地址：[https://github.com/iceCola7/WanAndroid]&#40;https://github.com/iceCola7/WanAndroid&#41;**)
-
-[//]: # ()
-[//]: # (**开源不易，如果喜欢的话希望给个 `Star` 或 `Fork` ^_^ ，谢谢~~**)
 
 ## 前言
 使用kotlin语言编写的玩Android项目的客户端。
